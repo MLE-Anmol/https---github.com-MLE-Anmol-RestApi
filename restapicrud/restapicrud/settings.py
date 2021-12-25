@@ -82,6 +82,7 @@ DATABASES = {
         'USER': 'ngywanlb',
         'PASSWORD': '4f9i8uL0I33-eAfssrUJ3Zc5RKfI9SND',
         'HOST': 'castor.db.elephantsql.com',
+        
     }
 }
 
